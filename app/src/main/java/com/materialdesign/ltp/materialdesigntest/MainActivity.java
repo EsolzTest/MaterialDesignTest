@@ -14,5 +14,7 @@ public class MainActivity extends Activity {
 
         String STRINGTYPE = "";
 
+        String AGAIN_TEST = "";
+
     }
 }
